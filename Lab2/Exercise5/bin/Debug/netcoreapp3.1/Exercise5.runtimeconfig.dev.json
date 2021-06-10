@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Grft\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Grft\\.nuget\\packages"
+    ]
+  }
+}

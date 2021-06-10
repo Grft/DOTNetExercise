@@ -1,0 +1,13 @@
+D:\Visual Studio Projects\DotNET\Lab2\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.exe
+D:\Visual Studio Projects\DotNET\Lab2\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.deps.json
+D:\Visual Studio Projects\DotNET\Lab2\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.runtimeconfig.json
+D:\Visual Studio Projects\DotNET\Lab2\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.runtimeconfig.dev.json
+D:\Visual Studio Projects\DotNET\Lab2\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.dll
+D:\Visual Studio Projects\DotNET\Lab2\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.pdb
+D:\Visual Studio Projects\DotNET\Lab2\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\DotNET\Lab2\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\DotNET\Lab2\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.AssemblyInfo.cs
+D:\Visual Studio Projects\DotNET\Lab2\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\DotNET\Lab2\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.dll
+D:\Visual Studio Projects\DotNET\Lab2\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.pdb
+D:\Visual Studio Projects\DotNET\Lab2\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.genruntimeconfig.cache
